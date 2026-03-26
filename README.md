@@ -118,6 +118,11 @@ FROM walmart_sales;
 * 📉 Store Performance Rank Trend
 
 ---
+📸 Dashboard Preview
+1. Executive Overview.png
+2. Sales Drivers Analysis.png
+3. Performance Insights.png
+   
 
 ## 🧠 Key Insights
 
