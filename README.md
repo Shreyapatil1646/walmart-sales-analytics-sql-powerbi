@@ -31,7 +31,7 @@ The project demonstrates strong capabilities in **data cleaning, transformation,
 
 ## 📂 Dataset
 
-* Source: Walmart Sales Dataset (Kaggle)
+* Source: Walmart Sales Dataset [https://www.kaggle.com/datasets/mikhail1681/walmart-sales](Kaggle)
 * Features:
 
   * Store ID
