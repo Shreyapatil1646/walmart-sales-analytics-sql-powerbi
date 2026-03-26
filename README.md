@@ -119,7 +119,7 @@ FROM walmart_sales;
 
 ---
 📸 Dashboard Preview
-1. Executive Overview.png
+1. Executive Overview.png 
 2. Sales Drivers Analysis.png
 3. Performance Insights.png
    
